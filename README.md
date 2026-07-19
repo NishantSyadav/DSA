@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NishantSyadav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/NishantSyadav/DSA/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/NishantSyadav/DSA/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NishantSyadav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/NishantSyadav/DSA/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/NishantSyadav/DSA/tree/master/0771-jewels-and-stones) |
 ## Backtracking
 |  |
 | ------- |
