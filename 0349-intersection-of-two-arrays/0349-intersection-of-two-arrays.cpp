@@ -10,7 +10,7 @@ public:
         }
 
         for (int num : nums2) {
-            if (mp[num] == 1) {
+            if (mp.count(num)&&mp[num] == 1) {
                 ans.push_back(num);
                 mp[num] = 0;
             }
