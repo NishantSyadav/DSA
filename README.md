@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NishantSyadav/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/NishantSyadav/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/NishantSyadav/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/NishantSyadav/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NishantSyadav/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -63,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
