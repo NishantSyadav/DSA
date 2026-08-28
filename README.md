@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NishantSyadav/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/NishantSyadav/DSA/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/NishantSyadav/DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
 | ------- |
@@ -234,8 +236,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
