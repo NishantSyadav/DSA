@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
+| [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NishantSyadav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/NishantSyadav/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NishantSyadav/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NishantSyadav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NishantSyadav/DSA/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/NishantSyadav/DSA/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -223,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NishantSyadav/DSA/tree/master/0056-merge-intervals) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
