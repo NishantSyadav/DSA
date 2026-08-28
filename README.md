@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NishantSyadav/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/NishantSyadav/DSA/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/NishantSyadav/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NishantSyadav/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/NishantSyadav/DSA/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NishantSyadav/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishantSyadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
