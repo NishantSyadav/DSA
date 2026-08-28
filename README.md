@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/NishantSyadav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/NishantSyadav/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/NishantSyadav/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NishantSyadav/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/NishantSyadav/DSA/tree/master/1672-richest-customer-wealth) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NishantSyadav/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NishantSyadav/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
