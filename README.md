@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NishantSyadav/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/NishantSyadav/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/NishantSyadav/DSA/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/NishantSyadav/DSA/tree/master/0709-to-lower-case) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NishantSyadav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0895-maximum-frequency-stack](https://github.com/NishantSyadav/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NishantSyadav/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/NishantSyadav/DSA/tree/master/1544-make-the-string-great) |
@@ -263,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
