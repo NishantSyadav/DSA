@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NishantSyadav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/NishantSyadav/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/NishantSyadav/DSA/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/NishantSyadav/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/NishantSyadav/DSA/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NishantSyadav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NishantSyadav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0895-maximum-frequency-stack](https://github.com/NishantSyadav/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NishantSyadav/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
