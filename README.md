@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NishantSyadav/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NishantSyadav/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishantSyadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NishantSyadav/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NishantSyadav/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NishantSyadav/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NishantSyadav/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
