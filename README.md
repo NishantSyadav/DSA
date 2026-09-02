@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NishantSyadav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/NishantSyadav/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/NishantSyadav/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0895-maximum-frequency-stack](https://github.com/NishantSyadav/DSA/tree/master/0895-maximum-frequency-stack) |
+| [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NishantSyadav/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/NishantSyadav/DSA/tree/master/1544-make-the-string-great) |
 ## Ordered Set
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
+| [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishantSyadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
