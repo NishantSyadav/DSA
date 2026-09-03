@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/NishantSyadav/DSA/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/NishantSyadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NishantSyadav/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/NishantSyadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
