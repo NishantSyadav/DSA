@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NishantSyadav/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/NishantSyadav/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NishantSyadav/DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/NishantSyadav/DSA/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NishantSyadav/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/NishantSyadav/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NishantSyadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
