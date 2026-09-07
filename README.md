@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/NishantSyadav/DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/NishantSyadav/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/NishantSyadav/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/NishantSyadav/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/NishantSyadav/DSA/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
