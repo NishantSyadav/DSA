@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/NishantSyadav/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/NishantSyadav/DSA/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/NishantSyadav/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/NishantSyadav/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NishantSyadav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/NishantSyadav/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0895-maximum-frequency-stack](https://github.com/NishantSyadav/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NishantSyadav/DSA/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/NishantSyadav/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
