@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NishantSyadav/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/NishantSyadav/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/NishantSyadav/DSA/tree/master/1544-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NishantSyadav/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/NishantSyadav/DSA/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NishantSyadav/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
