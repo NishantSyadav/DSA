@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NishantSyadav/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NishantSyadav/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/NishantSyadav/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/NishantSyadav/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NishantSyadav/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/NishantSyadav/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NishantSyadav/DSA/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/NishantSyadav/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishantSyadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NishantSyadav/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NishantSyadav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/NishantSyadav/DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/NishantSyadav/DSA/tree/master/0394-decode-string) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NishantSyadav/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/NishantSyadav/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishantSyadav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NishantSyadav/DSA/tree/master/0120-triangle) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NishantSyadav/DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
