@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/NishantSyadav/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NishantSyadav/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/NishantSyadav/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/NishantSyadav/DSA/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishantSyadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NishantSyadav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NishantSyadav/DSA/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/NishantSyadav/DSA/tree/master/0152-maximum-product-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
 ## Simulation
