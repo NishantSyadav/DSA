@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NishantSyadav/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishantSyadav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NishantSyadav/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NishantSyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NishantSyadav/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NishantSyadav/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/NishantSyadav/DSA/tree/master/0152-maximum-product-subarray) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NishantSyadav/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NishantSyadav/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/NishantSyadav/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NishantSyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/NishantSyadav/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/NishantSyadav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NishantSyadav/DSA/tree/master/0213-house-robber-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NishantSyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/NishantSyadav/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
