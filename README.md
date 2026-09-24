@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/NishantSyadav/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NishantSyadav/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/NishantSyadav/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NishantSyadav/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/NishantSyadav/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/NishantSyadav/DSA/tree/master/1544-make-the-string-great) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/NishantSyadav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/NishantSyadav/DSA/tree/master/0804-unique-morse-code-words) |
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
+| [0821-shortest-distance-to-a-character](https://github.com/NishantSyadav/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/NishantSyadav/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NishantSyadav/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NishantSyadav/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/NishantSyadav/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
