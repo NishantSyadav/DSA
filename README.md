@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NishantSyadav/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NishantSyadav/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/NishantSyadav/DSA/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1980-find-unique-binary-string](https://github.com/NishantSyadav/DSA/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2833-furthest-point-from-origin](https://github.com/NishantSyadav/DSA/tree/master/2833-furthest-point-from-origin) |
