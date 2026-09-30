@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/NishantSyadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NishantSyadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/NishantSyadav/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/NishantSyadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NishantSyadav/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NishantSyadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NishantSyadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/NishantSyadav/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2465-number-of-distinct-averages](https://github.com/NishantSyadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/NishantSyadav/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/NishantSyadav/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/NishantSyadav/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Monotonic Stack
 |  |
 | ------- |
