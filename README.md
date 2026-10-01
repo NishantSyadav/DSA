@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NishantSyadav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/NishantSyadav/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/NishantSyadav/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0810-chalkboard-xor-game](https://github.com/NishantSyadav/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/NishantSyadav/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NishantSyadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NishantSyadav/DSA/tree/master/0056-merge-intervals) |
+| [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Minimax
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/NishantSyadav/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/NishantSyadav/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -447,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
