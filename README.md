@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/NishantSyadav/DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NishantSyadav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/NishantSyadav/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
 | [2465-number-of-distinct-averages](https://github.com/NishantSyadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/NishantSyadav/DSA/tree/master/2540-minimum-common-value) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/NishantSyadav/DSA/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/NishantSyadav/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -456,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
