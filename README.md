@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/NishantSyadav/DSA/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/NishantSyadav/DSA/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/NishantSyadav/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NishantSyadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NishantSyadav/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/NishantSyadav/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NishantSyadav/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
