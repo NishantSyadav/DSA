@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/NishantSyadav/DSA/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2833-furthest-point-from-origin](https://github.com/NishantSyadav/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3498-reverse-degree-of-a-string](https://github.com/NishantSyadav/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/NishantSyadav/DSA/tree/master/0946-validate-stack-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NishantSyadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/NishantSyadav/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
