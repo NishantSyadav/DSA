@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NishantSyadav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NishantSyadav/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/NishantSyadav/DSA/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/NishantSyadav/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/NishantSyadav/DSA/tree/master/0771-jewels-and-stones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NishantSyadav/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/NishantSyadav/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/NishantSyadav/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/NishantSyadav/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1748-sum-of-unique-elements](https://github.com/NishantSyadav/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NishantSyadav/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/NishantSyadav/DSA/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/NishantSyadav/DSA/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/NishantSyadav/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NishantSyadav/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NishantSyadav/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/NishantSyadav/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NishantSyadav/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/NishantSyadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/NishantSyadav/DSA/tree/master/1052-grumpy-bookstore-owner) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NishantSyadav/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/NishantSyadav/DSA/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/NishantSyadav/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
