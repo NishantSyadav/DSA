@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/NishantSyadav/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2427-number-of-common-factors](https://github.com/NishantSyadav/DSA/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NishantSyadav/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3099-harshad-number](https://github.com/NishantSyadav/DSA/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/NishantSyadav/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NishantSyadav/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishantSyadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
