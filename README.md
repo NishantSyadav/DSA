@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NishantSyadav/DSA/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/NishantSyadav/DSA/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/NishantSyadav/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishantSyadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/NishantSyadav/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NishantSyadav/DSA/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/NishantSyadav/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NishantSyadav/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NishantSyadav/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/NishantSyadav/DSA/tree/master/0148-sort-list) |
 | [0706-design-hashmap](https://github.com/NishantSyadav/DSA/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/NishantSyadav/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishantSyadav/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -519,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/NishantSyadav/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
