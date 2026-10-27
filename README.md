@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/NishantSyadav/DSA/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1980-find-unique-binary-string](https://github.com/NishantSyadav/DSA/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NishantSyadav/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/NishantSyadav/DSA/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2833-furthest-point-from-origin](https://github.com/NishantSyadav/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishantSyadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NishantSyadav/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
