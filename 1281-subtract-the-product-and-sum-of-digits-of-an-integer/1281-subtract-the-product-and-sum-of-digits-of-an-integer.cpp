@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int subtractProductAndSum(int n) {
+
+        string s = to_string(n);
+        int prod = 1;
+        int sum = 0;
+
+        for (int i = 0; i < s.size(); i++) {
+            int digit = s[i] - '0';
+            prod *= digit;
+            sum += digit;
+        }
+        return prod - sum;
+    }
+};
