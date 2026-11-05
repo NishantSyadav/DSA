@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/NishantSyadav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NishantSyadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NishantSyadav/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NishantSyadav/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NishantSyadav/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/NishantSyadav/DSA/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/NishantSyadav/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/NishantSyadav/DSA/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NishantSyadav/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/NishantSyadav/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/NishantSyadav/DSA/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NishantSyadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1208-get-equal-substrings-within-budget](https://github.com/NishantSyadav/DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NishantSyadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/NishantSyadav/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/NishantSyadav/DSA/tree/master/2540-minimum-common-value) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NishantSyadav/DSA/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/NishantSyadav/DSA/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/NishantSyadav/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NishantSyadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishantSyadav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/NishantSyadav/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NishantSyadav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
