@@ -6,6 +6,7 @@ public:
         for (char ch : s) {
             mp[ch]++;
         }
+
         for (char ch : t) {
             mp[ch]--;
 
